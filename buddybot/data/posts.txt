@@ -1,0 +1,2296 @@
+How to Create Group Specific Events on Your WordPress Website?
+How to Create Group Specific Events on Your WordPress Website?
+
+
+
+Group events or group-specific events are events created particularly for a certain group. These events are restricted for other groups apart from the specified group(s).
+
+
+
+This feature is vastly used by membership and subscription-based event websites. It enables you to create events that are only for members or subscribers.
+
+
+
+To add this feature to your website, you can utilize the EventPrime core version. The plugin comes with ProfileGrid integration that enables you to create multiple events on your website including group events, recurring events, group-specific events, and more.
+
+
+
+EventPrime is a WordPress event calendar plugin that comes with an array of feature-rich extensions and functionalities. Moreover, the plugin is known for its WordPress calendar, WP event manager, attendee manager, site manager, and more. 
+
+
+
+You can explore all the features of this plugin here.
+
+
+
+
+Table of Content
+
+
+
+
+Solution for Adding Group Specific Events
+
+
+
+Features and overview of ProfileGrid Integration
+
+
+
+A step-by-step guide to publish user group-specific events
+
+Assign event to a specific group
+
+
+
+
+
+Frontend view of specific group events
+
+
+
+Ending Note
+
+
+
+
+
+Solution for Adding Group Specific Events
+
+
+
+This simple calendar plugin boasts some of the best features and extensions. Group specific events, seamless events calendar, multiple payment gateways, and advanced forms are just to name a few extensions.
+
+
+
+The plugin allows you to create, assign, manage, and track your events, performers, attendees, sponsors, and more. 
+
+
+
+Additionally, you can add event sites or venues, view and manage your event attendees from a single Dashboard.
+
+
+
+Furthermore, it comes with ProfileGrid integration that enables you to publish user group-specific events and create a user community base.
+
+
+
+Be it,  meetup events, virtual team events, virtual group events, or social meetups, you can create a personalized experience for your users with this plugin. 
+
+
+
+Features and overview of ProfileGrid Integration
+
+
+
+The ProfileGird integration extension is a part of the core extensions of this event management plugin. Moreover, the plugin comes with multiple dynamic features, some of which we have discussed above.
+
+
+
+If we talk about the ProfileGride Integration extension specifically, here are some of the highlights:
+
+
+
+
+Create user-based communities for your WordPress events website
+
+
+
+Allow users to post content, and share media
+
+
+
+Publish user group-specific events 
+
+
+
+Publish events that are specific to a certain group of community members
+
+
+
+
+A step-by-step guide to publish user group-specific events
+
+
+
+The Core plugin comes with the ProfileGrid integration. Additionally, the premium and premium+ plugins also come with ProfileGrid integration along with added features and extensions.
+
+
+
+Once the plugin is installed on the backend, follow the below-given steps:
+
+
+
+Step1: Go to the dashboard of your website, hover your cursor over the EventPrime menu, and click on Events.
+
+
+
+
+
+
+
+Step2: On the events dashboard you will see the ‘Add New’ option to create a new event. Click to create a new event. 
+
+
+
+
+
+
+
+Step3: A pop-up with multiple event setting options will appear. Here you can set the starting date, ending date, bookings option, you can add performers, set event site, and type. 
+
+
+
+
+
+
+
+Step4: Add the Event title, start date, and end date.
+
+
+
+
+
+
+
+Step5: Select ‘All Day’ if your event will take place for the entire day. Enable bookings and add the ticket price.
+
+
+
+
+
+
+
+Step6: Additionally select ‘Featured’ if you want to feature the event on your website.
+
+
+
+
+
+
+
+Step7: You can also select one or multiple performers from the performers’ list. Here is how you can add performers to your performer list.
+
+
+
+Step8: Add an events site from the drop-down. You can check out this link to know how you can add event sites to your website.
+
+
+
+
+
+
+
+Step9: Now, select the event type; meeting, concert, or festival.
+
+
+
+
+
+
+
+Step10: Further you can set the event status to Active, Unpublished, or Draft.
+
+
+
+
+
+
+
+Step11: Save the setting and the event will be displayed on your events calendar.
+
+
+
+
+
+
+
+Assign event to a specific group
+
+
+
+Step12: Click on the Event and a box will appear similar to the picture below.
+
+
+
+
+
+
+
+Step13: Scroll down and click on Dashboard.
+
+
+
+
+
+
+
+Step14: After the dashboard opens, scroll down and click on ProfileGrid.
+
+
+
+
+
+
+
+Step15: On the ProfileGrid Integration page, you will be able to select one or multiple ProfileGird groups to assign to the event. 
+
+
+
+
+
+
+
+Step16: Once you select the desired group(s) from the menu, click Save.
+
+
+
+Frontend view of specific group events
+
+
+
+For example, we have assigned the above event to the Bloggers group only.
+
+
+
+Here is how the event looks on the calendar if a group member from the specified group opens it:
+
+
+
+
+
+
+
+Here the event is visible to the member of the Bloggers Group.
+
+
+
+However, if a non-member of the Bloggers group opens the Calendar, the event won’t be visible.
+
+
+
+
+
+
+
+Ending Note
+
+
+
+You can further go to a specific group and check if the event is assigned or not. Further, you can invite all members of a group to an event using this extension.
+
+
+
+Make your WordPress events website more dynamic and one of kind with these features and functionalities of EventPrime.
+
+
+
+Moreover, this plugin offers some exquisite packages, plus, you can purchase even a single extension if you want from the ‘All Extensions’ page!
+How to Create Your First Event in WordPress
+How to Create Your First Event in WordPress
+
+
+
+This article will give you a walkthrough on how to publish your first event on WordPress website. It will also cover quick glances at some of the configurable event properties of EventPrime’s Events. So, let us wait no more and get started!
+
+
+
+Installation and Activation
+
+
+
+The first step here is to install and activate EventPrime on your WordPress website. You can do this from the ‘Plugins’ menu inside your WordPress Dashboard. On the ‘Plugins’ page inside the dashboard, click on the ‘Add New’ button at the top. Then search for EventPrime. Click on ‘Install’ and then ‘Activate’ to activate EventPrime on your site.
+
+
+
+Steps to create your first Event
+
+
+
+Step 1: Go to the menu of the Event Prime Plugin and click on "Events".
+
+
+
+
+
+
+
+Step 2: You will be taken to the Events page. Click on "Add Event".
+
+
+
+
+
+
+
+Step 3: Now, provide the necessary details about the event. This includes the Event Name, a description of the event, selecting the Event Type, choosing a Venue, specifying the Organizer and Performer, and so on. Also, make sure to enter the Date &amp; Time of the event. Additionally, you can add a few images related to the event in the Event Image section. Once you have added all the required details, click on "Publish" to make your event visible on the frontend.
+
+
+
+
+
+
+
+Creating and planning events on your websites is now easier than ever through the EventPrime plugin on WordPress. With its hundreds of brilliant features on event planning, organizing, and managing, this plugin will let your website steal the show for your upcoming events.
+
+
+
+EventPrime will help you find all answers relating to the big question of how to create virtual events. The plugin is built with numerous brilliant features unique to the plugin. All these features are meant to meet international standards and will get you an edge over competitors for everything event-related.
+
+
+
+View All Events
+
+
+
+All the essential properties are now configured for our event, so let us now see how EventPrime is going to display this event to the users on the frontend. The front-end event calendar will appear on the [em_events] shortcode. You can put this shortcode on any WordPress page or post of your choice. However, EventPrime creates a page with this shortcode automatically upon activation. This page will exist on your site at the URL: http://www.yoursite.com/events
+
+
+
+You can quickly access this page by clicking the ‘Frontend’ link from the top right links on the backend ‘Events’ screen.
+
+
+
+
+
+
+
+On this page, you have an event calendar with multiple views, such as Month, Week, Day, List, and Card. And each view has a unique way of displaying your event details. From here, users can click on an event and visit that event’s page for complete details. Also, users can register for the event if bookings are enabled.
+
+
+
+The calendar is followed by a list of Event Types and their colors so users can easily identify which event belongs to which type by their color.
+
+
+
+Final Words
+
+
+
+Although I complete the EventPrime Starter Guide here, rest assured that this is only the tip of the iceberg. EventPrime offers so many more options to add weight to your WordPress site events. We’ll continue to publish more guides like this on the other amazing features of EventPrime. Stay tuned!
+Use Elementor Integration Extension from EventPrime for building your website!
+EventPrime has released a new extension called Elementor Integration. This extension allows you to customize your website and add EventPrime features with simple drag and drop.
+
+
+
+With Elementor Integration, you can create beautiful and engaging event pages, calendars, and listings without any coding knowledge. You can also use Elementor to add EventPrime features to other pages on your website, such as your homepage or blog.
+
+
+
+The Elementor Integration extension is easy to use and install. Once you have installed it, you can start adding EventPrime features to your website with just a few clicks.
+
+
+
+Features of Elementor Integration Extension:
+
+
+
+
+
+
+
+EventPrime Elementor Integration offers a range of features to enhance your event management on your page. These features include:
+
+
+
+EventPrime All Events: This option enables you to display all events on your page, with various views such as Grid View, Calendar Views, etc.
+
+
+
+EventPrime Event Types: You can showcase different event types on your page, presented in styles like grid, rows, and colored grid.
+
+
+
+EventPrime Venues: This feature allows you to exhibit all the venues on your page, with options for grid, rows, and colored grid layouts.
+
+
+
+EventPrime Event Organizers: Showcase all the event organizers on your page with various display styles, including grid, rows, and colored grid.
+
+
+
+EventPrime Event Performers: Display all the event performers on your page, presented in grid, rows, and colored grid formats.
+
+
+
+EventPrime Single Event Type: Focus on displaying a particular event type on your page.
+
+
+
+EventPrime Single Event Venue: Highlight a specific venue on your page.
+
+
+
+EventPrime Single Event Organizer: Spotlight a particular organizer on your page.
+
+
+
+EventPrime Single Event Performer: Showcase a specific performer on your page.
+
+
+
+EventPrime Frontend Event Submission Form: With this feature, you can add an event submission form to your page, offering customization options for form requirements. You can also restrict access and set custom confirmation messages.
+
+
+
+EventPrime User Profile: This feature enables you to display the current user's profile on the page.
+
+
+
+EventPrime User Login: Showcase a user login page on your website.
+
+
+
+EventPrime User Registration: Add a user registration form to your page.
+
+
+
+This extension provides a comprehensive set of tools to create an engaging and organized event management experience for your audience.
+
+
+
+Steps to use Elementor Integration Extension with EventPrime on your website
+
+
+
+Step 1: To begin, download and install the EventPrime extension from their website. Please make sure that you have also installed Elementor on your WordPress website before proceeding.
+
+
+
+Step 2: Next, navigate to the page where you want to add the EventPrime features and edit the page using Elementor. You will find the widgets of this extension available in the Elementor editor.
+
+
+
+
+
+
+
+Step 3: Now, you can easily add the desired features by either dragging and dropping the widgets or using the Add Widgets option provided on the page.
+
+
+
+Step 4: First, let's explore all the widgets available in this plugin.
+
+
+
+
+
+EventPrime All Events Widget
+
+
+
+EventPrime Event Types Widget
+
+
+
+EventPrime Venues Widget (All options are similar to Event Types Widgets)
+
+
+
+EventPrime Event Organizers Widget (All options are similar to Event Types Widgets)
+
+
+
+EventPrime Event Performers Widget (All options are similar to Event Types Widgets)
+
+
+
+EventPrime Single Event Type
+
+
+
+EventPrime Single Venue (All options are similar to Single Event Types Widgets)
+
+
+
+EventPrime Single Event Organizer (All options are similar to Single Event Types Widgets)
+
+
+
+EventPrime Single Event Performer (All options are similar to Single Event Types Widgets)
+
+
+
+EventPrime Frontend Event Submission Form
+
+
+
+EventPrime User Profile
+
+
+
+EventPrime User Login
+
+
+
+EventPrime User Registration
+
+
+
+
+
+So, we have explored all the widgets available in this extension. 
+
+
+
+All the changes made after adding these widgets will be visible on your frontend page.
+
+
+
+In conclusion
+
+
+
+In conclusion, the release of the Elementor Integration extension by Event Prime is a significant milestone for website customization and event management. This extension empowers users to create stunning and interactive event pages, calendars, and listings using a simple drag-and-drop interface, without the need for any coding expertise. The integration with Elementor opens up endless possibilities for users to enhance their websites and elevate their event planning and promotion efforts. Whether you're organizing conferences, workshops, concerts, or any other type of event, this extension provides a user-friendly and efficient solution to showcase your events in a visually appealing manner.
+
+
+
+If you need any further assistance, please comment below and our team will reach out to you with the best solution.
+Elementor Integration All Events Widget
+This section will help you learn about the All Events Widget included with our Elementor Integration Extension for EventPrime.
+
+
+
+Let's discuss Elementor Integration extension first widget, i.e., EventPrime All Events
+
+
+
+This widget enables you to display all events on your page, with various views such as Grid View, Calendar Views, etc.
+
+
+
+Let's explore the adding EventPrime All Events widget and its numerous options:
+
+
+
+
+
+
+
+View - This option allows you to customize the display of all events, offering choices such as Square Grid, Staggered Grid, Rows, Slider, and Calendar view.
+
+
+
+
+Below are some examples of how these views will be presented.
+
+
+
+
+
+
+Staggered Grid
+
+
+
+
+
+Rows
+
+
+
+
+
+
+
+Slider
+
+
+
+
+
+Calendar
+
+
+
+
+
+Select Event Types - With this option, you can filter, and display events based on specific event types.
+
+
+
+Select Event Sites - Here, you can filter, and display events based on particular venues.
+
+
+
+Limit - You can utilize this option to specify the maximum number of events displayed on the page when it is initially rendered. For instance, if you wish to display only 10 events when the page is first loaded, you can enable the Load More button to reveal additional events.
+
+
+
+Show Upcoming Events - When activated, upcoming events will be displayed on the page as well. However, please note that this feature should only be enabled if you intend to exclusively showcase upcoming events and exclude past events from being shown.
+
+
+
+Disable Filter - Selecting YES will deactivate filters, while choosing NO will enable the option to apply multiple filters, including Quick Search, Date Range, Event Type, Venues, Performer, and Organizer, for event filtering.
+
+
+
+Individual Events - This feature lets you select events happening yesterday, today, tomorrow, or within this month.
+
+
+
+Event Columns - This feature enables you to organize your events in alignment with your website's layout. For instance, if your website follows a 3-column structure, you can opt to display up to 3 events per column. This ensures a visually pleasing presentation that seamlessly integrates with your website's design.
+
+
+
+Enable Load More - When enabled, a "load more" button will appear on the page, allowing users to load additional events.
+
+
+
+Enable Featured Events - This allows you to show only featured events on your website.
+
+
+
+Enable Popular Events - This allows you to show popular events on your website. 
+
+
+
+
+
+What are featured events and popular events?
+
+
+
+Featured Events - Events that were selected as Featured Events during creation are considered Featured Events.
+
+
+
+Popular Events - Those events which are booked by many attendees are Popular Events.
+
+
+Use Elementor Integration Extension from EventPrime for building your website! &#8211; OLD
+Use Elementor Integration Extension from EventPrime for building your website!
+
+
+
+EventPrime has released a new extension called Elementor Integration. This extension allows you to customize your website and add EventPrime features with simple drag and drop.
+
+
+
+With Elementor Integration, you can create beautiful and engaging event pages, calendars, and listings without any coding knowledge. You can also use Elementor to add EventPrime features to other pages on your website, such as your homepage or blog.
+
+
+
+The Elementor Integration extension is easy to use and install. Once you have installed it, you can start adding EventPrime features to your website with just a few clicks.
+
+
+
+Features of Elementor Integration Extension:
+
+
+
+
+
+
+
+EventPrime Elementor Integration offers a range of features to enhance your event management on your page. These features include:
+
+
+
+EventPrime All Events: This option enables you to display all events on your page, with various views such as Grid View, Calendar Views, etc.
+
+
+
+EventPrime Event Types: You can showcase different event types on your page, presented in styles like grid, rows, and colored grid.
+
+
+
+EventPrime Venues: This feature allows you to exhibit all the venues on your page, with options for grid, rows, and colored grid layouts.
+
+
+
+EventPrime Event Organizers: Showcase all the event organizers on your page with various display styles, including grid, rows, and colored grid.
+
+
+
+EventPrime Event Performers: Display all the event performers on your page, presented in grid, rows, and colored grid formats.
+
+
+
+EventPrime Single Event Type: Focus on displaying a particular event type on your page.
+
+
+
+EventPrime Single Event Venue: Highlight a specific venue on your page.
+
+
+
+EventPrime Single Event Organizer: Spotlight a particular organizer on your page.
+
+
+
+EventPrime Single Event Performer: Showcase a specific performer on your page.
+
+
+
+EventPrime Frontend Event Submission Form: With this feature, you can add an event submission form to your page, offering customization options for form requirements. You can also restrict access and set custom confirmation messages.
+
+
+
+EventPrime User Profile: This feature enables you to display the current user's profile on the page.
+
+
+
+EventPrime User Login: Showcase a user login page on your website.
+
+
+
+EventPrime User Registration: Add a user registration form to your page.
+
+
+
+This extension provides a comprehensive set of tools to create an engaging and organized event management experience for your audience.
+
+
+
+Steps to use Elementor Integration Extension with EventPrime on your website
+
+
+
+Step 1: To begin, download and install the EventPrime extension from their website. Please make sure that you have also installed Elementor on your WordPress website before proceeding.
+
+
+
+Step 2: Next, navigate to the page where you want to add the EventPrime features and edit the page using Elementor. You will find the widgets of this extension available in the Elementor editor.
+
+
+
+
+
+
+
+Step 3: Now, you can easily add the desired features by either dragging and dropping the widgets or using the "Add Widgets" option provided on the page.
+
+
+
+Step 4: First, let's explore the adding "EventPrime All Events" widget and its numerous options:
+
+
+
+
+
+
+
+View - This option allows you to customize the display of all events, offering choices such as Square Grid, Staggered Grid, Rows, Slider, and Calendar view.
+
+
+
+Select Event Types - With this option, you can filter and display events based on specific event types.
+
+
+
+Select Event Sites - Here, you can filter and display events based on particular venues.
+
+
+
+Limit - You can use this option to determine the maximum number of events shown on the page.
+
+
+
+Show Upcoming Events - When enabled, upcoming events will also be visible on the page.
+
+
+
+Disable Filter - Selecting "YES" will deactivate filters, while choosing "NO" will enable the option to apply multiple filters, including Quick Search, Date Range, Event Type, Venues, Performer, and Organizer, for event filtering.
+
+
+
+Individual Events - This feature lets you select events happening yesterday, today, tomorrow, or within this month.
+
+
+
+Event Columns - You can use this setting to define the number of columns to display a large number of events.
+
+
+
+Enable Load More - When enabled, a "load more" button will appear on the page, allowing users to load additional events.
+
+
+
+Enable Featured Events - Enabling this option allows you to showcase featured events.
+
+
+
+Enable Popular Events - Enabling this option allows you to display popular events.
+
+
+
+Let's explore the EventPrime Event Types widget and its numerous options:
+
+
+
+
+
+
+
+Display Style - This option allows you to customize the display style of event types, offering choices such as Grid, Colored Grid, and Rows.
+
+
+
+No. of Items to Fetch - Here, you can define the maximum number of event types to display on the page.
+
+
+
+Grid Columns - This setting determines the number of grids on the page for handling a large number of event types.
+
+
+
+Enable Load More - Enabling this feature adds a Load More button on the page, allowing users to load additional event types as needed.
+
+
+
+Enable Search - When enabled, the search option becomes available on the page, providing users with the ability to search for specific event types.
+
+
+
+Enable Featured Venues - If enabled, featured venues will be displayed along with the event types. 
+
+
+
+Enable Popular Venues - Similarly, when enabled, popular venues will also be displayed along with the event types.
+
+
+
+Let's explore the EventPrime Venues widget and its numerous options:
+
+
+
+
+
+
+
+Display Style - This option allows you to customize the display style of venues, offering choices such as Grid, Colored Grid, and Rows.
+
+
+
+No. of Items to Fetch - Here, you can define the maximum number of venues to display on the page.
+
+
+
+Grid Columns - This setting determines the number of grids on the page for handling a large number of venues.
+
+
+
+Enable Load More - Enabling this feature adds a "load more" button on the page, allowing users to load additional venues as needed.
+
+
+
+Enable Search - When enabled, the search option becomes available on the page, providing users with the ability to search for specific venues.
+
+
+
+Enable Featured Venues - If enabled, featured venues will be displayed along with the venues.
+
+
+
+Enable Popular Venues - Similarly, when enabled, popular venues will also be displayed along with the venues.
+
+
+
+Let's explore the EventPrime Organizers widget and its numerous options:
+
+
+
+
+
+
+
+Display Style - This option allows you to customize the display style of organizers, offering choices such as Grid, Colored Grid, and Rows.
+
+
+
+No. of Items to Fetch - Here, you can define the maximum number of organizers to display on the page.
+
+
+
+Grid Columns - This setting determines the number of grids on the page for handling a large number of organizers.
+
+
+
+Enable Load More - Enabling this feature adds a "load more" button on the page, allowing users to load additional organizers as needed.
+
+
+
+Enable Search - When enabled, the search option becomes available on the page, providing users with the ability to search for specific organizers.
+
+
+
+Enable Featured Organizers - If enabled, featured organizers will be displayed along with the organizers.
+
+
+
+Enable Popular Organizers - Similarly, when enabled, popular organizers will also be displayed along with the organizers.
+
+
+
+Let's explore the EventPrime Performers widget and its numerous options:
+
+
+
+
+
+
+
+Display Style - This option allows you to customize the display style of performers, offering choices such as Grid, Colored Grid, and Rows.
+
+
+
+No. of Items to Fetch - Here, you can define the maximum number of performers to display on the page.
+
+
+
+Grid Columns - This setting determines the number of grids on the page for handling a large number of performers.
+
+
+
+Enable Load More - Enabling this feature adds a "load more" button on the page, allowing users to load additional performers as needed.
+
+
+
+Enable Search - When enabled, the search option becomes available on the page, providing users with the ability to search for specific performers.
+
+
+
+Enable Featured Performers - If enabled, featured performers will be displayed along with the performers.
+
+
+
+Enable Popular Performers - Similarly, when enabled, popular performers will also be displayed along with the performers.
+
+
+
+Let's explore the EventPrime Single Event Type widget and its numerous options:
+
+
+
+
+
+
+
+Select Event Type: This option allows you to display events of specific Event Types.
+
+
+
+Related Events View: It helps to showcase events in Square Grid, Plain List, and Stacked Rows views.
+
+
+
+Limit: You can use this option to determine the maximum number of events shown on the page.
+
+
+
+Event Columns: You can use this setting to define the number of columns for displaying a large number of events.
+
+
+
+Enable Load More: When enabled, a "load more" button will appear on the page, allowing users to load additional events.
+
+
+
+Hide Past Events: When enabled, Past Events won't be visible.
+
+
+
+Let's explore the EventPrime Single Venue widget and its numerous options:
+
+
+
+
+
+
+
+Select Event Venue: This option allows you to display particular venue.
+
+
+
+Related Events View: It helps to showcase venues in Square Grid, Plain List, and Stacked Rows views.
+
+
+
+Limit: You can use this option to determine the maximum number of venues shown on the page.
+
+
+
+Event Columns: You can use this setting to define the number of columns for displaying a large number of venues.
+
+
+
+Enable Load More: When enabled, a "load more" button will appear on the page, allowing users to load additional venues.
+
+
+
+Hide Past Events: When enabled, Past Events won't be visible.
+
+
+
+Let's explore the EventPrime Single Event Organizer widget and its numerous options:
+
+
+
+
+
+
+
+Select Event Organizer: This option allows you to display particular organizer.
+
+
+
+Related Events View: It helps to showcase organizers in Square Grid, Plain List, and Stacked Rows views.
+
+
+
+Limit: You can use this option to determine the maximum number of organizers shown on the page.
+
+
+
+Event Columns: You can use this setting to define the number of columns for displaying a large number of organizers.
+
+
+
+Enable Load More: When enabled, a "load more" button will appear on the page, allowing users to load additional organizers.
+
+
+
+Hide Past Events: When enabled, Past Events won't be visible.
+
+
+
+Let's explore the EventPrime Single Event Performer widget and its numerous options:
+
+
+
+
+
+
+
+Select Event Performer: This option allows you to display particular performer.
+
+
+
+Related Events View: It helps to showcase performers in Square Grid, Plain List, and Stacked Rows views.
+
+
+
+Limit: You can use this option to determine the maximum number of performers shown on the page.
+
+
+
+Event Columns: You can use this setting to define the number of columns for displaying a large number of performers.
+
+
+
+Enable Load More: When enabled, a "load more" button will appear on the page, allowing users to load additional performers.
+
+
+
+Hide Past Events: When enabled, Past Events won't be visible.
+
+
+
+Let's explore the EventPrime Frontend Event Submission widget:
+
+
+
+
+
+
+
+
+
+
+
+Confirmation Message: This allows you to customize the confirmation message after form submission.
+
+
+
+Guest Submissions: When enabled, new event submissions can be made without the need to log in.
+
+
+
+Default State: Submissions can be in either draft state or active state.
+
+
+
+Restrict by Roles: This feature allows us to restrict access to the widget for specific roles such as Administrator, Editor, Author, Contributor, and Subscriber.
+
+
+
+Event Featured Image: When enabled, an option to add an event featured image will be available.
+
+
+
+Event Booking: If enabled, the event booking option will be available.
+
+
+
+Event Link: When enabled, an option to add an event link will be available.
+
+
+
+Event Type: If enabled, there will be an option to add an event type.
+
+
+
+Add New Event Type: If enabled, users can add a new event type from the widget.
+
+
+
+Venues: When enabled, an option to add a venue will be available.
+
+
+
+Add New Venue: If enabled, users can add a new venue directly from the widget.
+
+
+
+Event Performer: If enabled, users can add an event performer.
+
+
+
+Add New Performer: When enabled, users can add a new event performer through the widget.
+
+
+
+Event Organizer: If enabled, an option to add the event organizer will be available.
+
+
+
+Event Description Required: If enabled, adding an event description will be mandatory.
+
+
+
+Event Booking Required: If enabled, adding event booking details will be mandatory.
+
+
+
+Event Booking Price Required: If enabled, adding the booking price will be mandatory.
+
+
+
+Event Link Required: If enabled, adding an event link will be mandatory.
+
+
+
+Event Type Required: If enabled, selecting an event type will be mandatory.
+
+
+
+Let's explore the EventPrime User Profile widget:
+
+
+
+The EventPrime User Profile widget is a powerful tool that allows you to showcase the profile information of the currently logged-in user on your website. By integrating this widget into your website's user account section, visitors who have logged in can view their personal details, such as their name, email address, profile picture, and other relevant information. This enhances the user experience by providing a personalized touch, enabling users to access and manage their account information conveniently.
+
+
+
+Let's explore the EventPrime User Login widget:
+
+
+
+The EventPrime User Login widget serves as an essential component for websites that require user accounts and personalized access. By integrating this widget, you can showcase a user-friendly and secure login page to visitors. This allows new users to create accounts or existing users to log in, granting them access to exclusive features, personalized content, and other functionalities. The widget typically includes input fields for username/email and password, along with options for password recovery or registration for new users who haven't signed up yet.
+
+
+
+Let's explore the EventPrime User Registration widget:
+
+
+
+The EventPrime User Registration widget empowers website owners to provide a seamless and straightforward user registration process. By integrating this widget, you can add a user registration form to your web page, enabling new users to sign up and create accounts on your platform. The registration form usually includes fields for essential user details, such as name, email, password, and any additional information you may require. This widget streamlines the user onboarding experience, encouraging more users to join your website and access its unique features and content.
+
+
+
+So, we have explored all the widgets available in this extension. All the changes made after adding these widgets will be visible on your page.
+
+
+
+In conclusion
+
+
+
+In conclusion, the release of the "Elementor Integration" extension by Event Prime is a significant milestone for website customization and event management. This extension empowers users to effortlessly create stunning and interactive event pages, calendars, and listings using a simple drag-and-drop interface, without the need for any coding expertise. The seamless integration with Elementor opens up endless possibilities for users to enhance their websites and elevate their event planning and promotion efforts. Whether you're organizing conferences, workshops, concerts, or any other type of event, this extension provides a user-friendly and efficient solution to showcase your events in a visually appealing manner.
+
+
+
+If you need any further assistance, please comment below and our team will reach out to you with the best solution.
+How to create an event management website? (Full Guide)
+How to create an event management website? (Full Guide)
+
+
+
+Here’s an easy and detailed guide for creating an event management website.
+
+
+
+Event management websites can be of two types: one that hosts and organizes events and the other that sell tickets for the events held by other organizers.
+
+
+
+It can be used to host or sell tickets for events like Conferences, Festivals, Parties, Conventions, Expos, Galas, Games, and more.
+
+
+
+Creating an event management website requires a set of specific features and functionalities. For example, a seamless events calendar, a ticket booking system, a payment gateway, and a few other features.
+
+
+
+This guide is extremely detailed and addresses all the challenges that any beginner designer might face.
+
+
+
+
+Table of Content
+
+
+
+
+How to create an event website?
+
+
+
+Digital tools required to create an event management website
+
+
+
+Steps to create an event management website
+
+Customize the Theme
+
+
+
+Events Plugin Setup
+
+
+
+Creating the First Event
+
+
+
+How users can book an event from the front end?
+
+
+
+
+
+EventPrime: A Complete Solution for the Event Management Website
+
+
+
+Extensions That Help in Enhancing the Features of an Event Management Website
+
+Member Area or User Profile
+
+
+
+Event Dashboard
+
+
+
+Payment Setup and Booking Management
+
+
+
+Various Types of Forms
+
+
+
+Discount and Coupon Codes
+
+
+
+Event analytics
+
+
+
+
+
+Additional resources
+
+
+
+Closing Note
+
+
+
+
+
+How to create an event website?
+
+
+
+This guide covers everything from basic to professional functionalities that you might require to create an event website.
+
+
+
+But before we go ahead, let’s take a look at a few digital tools that will be needed to create an event website.
+
+
+
+Digital tools required to create an event management website
+
+
+
+To start building your event management sites, you’ll require the following digital tools:
+
+
+
+Hosting and domain name: Hosting is the place where your website lives, and a domain name is the name of your website. For example, eventprime.net is the domain of this website. 
+
+
+
+WordPress: WordPress.org is the best CMS you can use to build your event management sites. Compared to wordpress.com, wordpress.org is more flexible and offers an array of free WordPress event management plugins and free WordPress event themes. 
+
+
+
+WordPress event theme: A WordPress theme is used to beautify and enhance the design and feel of the website. WordPress.org offers a wide variety of free wordpress themes for event websites. 
+
+
+
+Go to wordpress.org and then click on ‘Themes’, from the search box search for event themes and explore all the themes.
+
+
+
+WordPress event management plugin: A plugin is like salt to the website. Without it, the website is incomplete. It helps in adding powerful features, unique functionalities, and advanced characteristics to the website.
+
+
+
+Steps to create an event management website
+
+
+
+Step1: Buy a hosting and domain name. Some of the recommended hosting and domain solutions for event management websites are SiteGround, BlueHost, and Inmotion.
+
+
+
+Step2: Once you have your domain name and hosting in place, add WordPress to it. Follow this guide to install WordPress and set up hosting.
+
+
+
+Follow this tutorial to set up basic things when logging in for the first time.
+
+
+
+Next,
+
+
+
+Step3: Login to your WordPress website and open the Dashboard.
+
+
+
+
+
+
+
+Step4: Scroll down and go to Appearance &gt; Themes in the left menu bar.
+
+
+
+
+
+
+
+Step3: Click on ‘Add Themes’ to add a new theme.
+
+
+
+
+
+
+
+Step4: To upload your theme file, you can click on ‘Upload theme’ and upload the theme file. You can search for the theme as well in the ‘Search bar.’
+
+
+
+
+
+
+
+Step5: Once you upload the theme, you can install and activate it. Else if you are searching for the theme in the backend, you can click on ‘Install’ to install and activate it.
+
+
+
+Customize the Theme
+
+
+
+Here we are using the basic theme that comes pre-installed in WordPress called ‘Twenty Twenty-One”
+
+
+
+
+The steps stand true for any WordPress theme with a few changes and variations here and there, comment below and let us know if you need any help with the specific theme that you are using.
+
+
+
+
+Step1: Go ahead and click on ‘Customize’ to set up the front end of your website.
+
+
+
+
+
+
+
+Step2: Using the live editor, add the name of the site, logo, and adjust the menus. 
+
+
+
+
+
+
+
+Step3: Click on the pencil icon to edit the top menu of your website.
+
+
+
+
+
+
+
+Step4: Next, click on the ‘Edit Menu’ option.
+
+
+
+
+
+
+
+Step5: Here you can edit the menu items or add/ remove more menu items.
+
+
+
+
+
+
+
+
+
+
+
+Step6: In addition to that, you can add Logo, Site Name, and Tagline from Site Identity option.
+
+
+
+
+
+
+
+
+
+
+
+Step7: Next you have Color &amp; Dark Mode which can be used to set the color and tone of the site. Then you have Background Image to add an image to the background and Menus. 
+
+
+
+
+
+
+
+Step8: Further, you have Widgets settings, Homepage settings, Excerpt setting, WooCommerce setting, and Additional CSS settings which you can customize according to your likes. 
+
+
+
+
+
+
+
+The steps above cover all the basic settings and enhancements needed.
+
+
+
+For more specific settings or customizations follow this detailed guide.
+
+
+
+Next, let’s set up the Events Plugin.
+
+
+
+Events Plugin Setup
+
+
+
+Step1: Once you are done setting up the pages of your website, now you can add an Events Plugin to enhance the functionalities of your website. 
+
+
+
+Step2: Follow this link or click the button below to download the EventPrime plugin for free.
+
+
+
+TRY EVENTPRIME FOR FREE!
+
+
+
+The plugin will help you add an events calendar, create and manage events, set up a booking system, and accept payments on your website. 
+
+
+
+Step3: Once you have the added the plugin, go to the WordPress backend and click on ‘Plugins’ below ‘Appearance’ on the left menu bar.
+
+
+
+
+
+
+
+Step4: Follow the same path as you did for installing a theme, i.e., Add New &gt; Upload Plugin &gt; Activate. OR Add New &gt; Search Plugin &gt; Install &gt; Activate.
+
+
+
+Creating the First Event
+
+
+
+Step1: Open your WordPress Dashboard.
+
+
+
+Step2: Click on ‘EventPrime’ on your left menu. 
+
+
+
+
+
+
+
+Step3: Just below the ‘Event Manager,’ you will find ‘Add New.’ Click on it.
+
+
+
+
+
+
+
+Step4: A new window will pop up, where you need to add details of the event.
+
+
+
+
+
+
+
+Step5: Add Event Title, Dates, Event Site Types, etc.
+
+
+
+Step6: The performer list shows the name of the performer. To create a performers list, go to the ‘Performer’ option available on your EventPrime menu.
+
+
+
+
+
+
+
+Step7: Click on ‘Add New’ to add performers.
+
+
+
+
+
+
+
+Once you have added the performers, you can go back to the event you were creating.
+
+
+
+Step8: Now, select the status of the event: Active, Unpublished, or Draft.
+
+
+
+Next, save the event and it will be published on the frontend if it is Active.
+
+
+
+
+
+
+
+Further, you can set up a payment method, add event sites, add an attendee list, add live seating, and more using this event plugin. Once you are done with setting up events, copy this shortcode (em_events) and paste it anywhere on your event website where you want to show the events calendar. Explore the list of shortcodes that you can use on the website. Here is how the users can book the events from the front end.
+
+
+
+How users can book an event from the front end?
+
+
+
+Step1: By going to the event calendar.
+
+
+
+
+
+
+
+Step2: Users can use the filters option or can scroll down to a particular date to find the event they are interested in.
+
+
+
+Step3: Hovering the cursor over the event will give an option to book the event, click on ‘Book Now.’
+
+
+
+
+
+
+
+Step4: Next, users can select the seats they want to book.
+
+
+
+To enable the live seating chart option, simply follow this guide.
+
+
+
+
+
+
+
+Step5: Fill in attendee details and proceed.
+
+
+
+
+
+
+
+Step6: As mentioned above, users will get an option to apply a coupon code and proceed with the payment.
+
+
+
+For creating and adding coupon code options, read here.
+
+
+
+
+
+
+
+Step7: The user will be redirected to the payment gateway page. Once the payment process is completed, they will receive the following notification.
+
+
+
+Follow these guides for adding and setting up Stripe and PayPal payment options on your website.
+
+
+
+
+
+
+
+Step8: The details of the booking can be checked by clicking on the ‘View Details’ button.
+
+
+
+
+
+
+
+Creating and adding events on any website is very easy with This event plugin is useful for creating and adding any type of events on your website.
+
+
+
+EventPrime: A Complete Solution for the Event Management Website
+
+
+
+EventPrime is an event calendar plugin that allows you to create, edit, and manage events on your website with ease. The plugin is loaded with more than 90+ functionalities and important event management tools.
+
+
+
+It also comes with multiple integrations to payment systems such as PayPal, Stripe, and also Offline Payment option. Using this plugin you can add features such as live seating charts, coupon codes, automatic discounts, recurring events, guest booking, event analytics, and more.
+
+
+
+All the features of EventPrime can be explored here.
+
+
+
+Extensions That Help in Enhancing the Features of an Event Management Website
+
+
+
+EventPrime is a feature-rich plugin that offers various extensions to add &amp; improve more capabilities on the website. Here are some of the event management tools i.e. extensions that can help you create an event website or other websites that have events options. 
+
+
+
+Member Area or User Profile
+
+
+
+The very basic feature required in an event website is to segregate users into attendees and organizers. For which you will require the users to register on the website with a user role. 
+
+
+
+Example of an events group
+
+
+
+
+
+
+
+EventPrime can be easily integrated with ProfileGrid Memberships to add user-profiles and group functionalities to the website. This integration allows your users to register with a unique user profile and password.
+
+
+
+Example of a user profile in a group
+
+
+
+
+
+
+
+This combination will allow creating a user-based community with ProfileGrid and publish User Group specific events with EventPrime. Moreover, it will also enable publishing Events exclusively for a certain group of community members. 
+
+
+
+Event Dashboard
+
+
+
+Event Dashboard is an event calendar on your WordPress backend that allows you to create and manage events on your website. This WP calendar plugin provides a seamless calendar not only for you but for your users too.
+
+
+
+Example of Event Dashboard
+
+
+
+
+
+
+
+You can add, edit, and delete events in the backend with this calendar tool.
+
+
+
+Frontend Example of Events Calendar for Users
+
+
+
+
+
+
+
+The plugin also comes with a shortcode that can be placed on any page of the website to display an event calendar.
+
+
+
+Payment Setup and Booking Management
+
+
+
+It is necessary for any event management website to set up an event booking system and payment gateway for the users.  EventPrime offers a complete booking system experience by integrating PayPal and other popular payment systems. However, you will require an SSL certificate to host safe transactions. 
+
+
+
+Event Booking System with PayPal Integration
+
+
+
+
+
+
+
+It allows the users to book tickets for events and make payments seamlessly. Furthermore, there are guest booking options. Additionally, you can easily manage the bookings and payments using the EventPrime menu bar in the backend.
+
+
+
+Various Types of Forms
+
+
+
+Another important functionality that your event website will require is ‘forms’. You’ll need to publish various types of forms for your users and organizers—for example, payment forms, registration forms, membership forms, or other types of forms. 
+
+
+
+As a solution to this, EventPrime provides integration with RegistrationMagic. 
+
+
+
+RegistrationMagic is a leading WordPress user registration form plugin for WordPress websites. You can use this integration to create various types of forms with custom fields. 
+
+
+
+Example of Registration Form
+
+
+
+
+
+
+
+Discount and Coupon Codes
+
+
+
+There are two options available in EventPrime for adding discounts and coupon functionality: Automatic Discount Extension, and Coupon Codes extension.
+
+
+
+The Automatic Discount extension allows you to offer a discount based on admin rules. Admin can create an endless number of rules. For example, the admin can set a date and time-based rule such as an attendee will get a 30% discount on all bookings done between particular dates.
+
+
+
+For example,
+
+
+
+Automatic Discounts
+
+
+
+
+
+
+
+The second extension is Coupon Codes. You can create multiple coupon codes which users can apply to their bookings to avail the discount.
+
+
+
+Example of Coupon Code
+
+
+
+
+
+
+
+Event analytics
+
+
+
+Event Analytics is one of the most important parts of event management tools.
+
+
+
+Analyzing events becomes a very hectic task for event management websites. And most of the time, you might end up doing it manually, which is time taking, frustrating, and, tedious. But with EventPrime, you can analyze your events without any hassle!
+
+
+
+Example of an Event Analytics Chart
+
+
+
+
+
+
+
+The Event analytics allow you to stay updated on all the bookings and revenues. It stores data and illustrates it as a graph that exhibits how well the events are performing.
+
+
+
+Additional resources
+
+
+
+Now that you have added your theme, plugin and have also created your first event, here are some of the advanced resources that you may require to take your event management website a notch up!
+
+
+
+
+EventPrime Starter Guide
+
+
+
+Increase Productivity of events using best WordPress Events Plugin
+
+
+
+How to Manage Attendees for WordPress Events
+
+
+
+How to Add Performers to WordPress Events
+
+
+
+10 Details To Always Include on Your Events Website
+
+
+
+How to Showcase Event Location Details of Your Event Sites
+
+
+
+Create and Earn from your Own Event Marketplace on WordPress in 2021
+
+
+
+
+Closing Note
+
+
+
+We have tried to include every piece of information that might be required to build an amazing event management website on WordPress. Starting from frequently asked questions to step-by-step guides and additional resources.
+
+
+
+Feel free to comment below and ask any questions to our WordPress experts.
+Elementor Integration User Profile, User Login, User Registration
+Let's explore the EventPrime User Profile widget:
+
+
+
+The EventPrime User Profile widget is a powerful tool that allows you to showcase the profile information of the currently logged-in user on your website. By integrating this widget into your website's user account section, visitors who have logged in can view their personal details, such as their name, email address, profile picture, and other relevant information. This enhances the user experience by providing a personalized touch, enabling users to access and manage their account information conveniently.
+
+
+
+Frontend View for User Profile
+
+
+
+Let's explore the EventPrime User Login widget:
+
+
+
+The EventPrime User Login widget serves as an essential component for websites that require user accounts and personalized access. By integrating this widget, you can showcase a user-friendly and secure login page to visitors. This allows new users to create accounts or existing users to log in, granting them access to exclusive features, personalized content, and other functionalities. The widget typically includes input fields for username/email and password, along with options for password recovery or registration for new users who haven't signed up yet.
+
+
+
+Let's explore the EventPrime User Registration widget:
+
+
+
+The EventPrime User Registration widget empowers website owners to provide a seamless and straightforward user registration process. By integrating this widget, you can add a user registration form to your web page, enabling new users to sign up and create accounts on your platform. The registration form usually includes fields for essential user details, such as name, email, password, and any additional information you may require. This widget streamlines the user onboarding experience, encouraging more users to join your website and access its unique features and content.
+
+
+
+
+How to Get Twilio Text Notifications for your Events on WordPress Website!
+Introducing the powerful integration of Twilio Text Notifications with EventPrime, an innovative extension designed to enhance user engagement. Seamlessly configure separate admin and user notifications with personalized content, ensuring a tailored experience. Enable convenient text message services, notifying users and admins for event bookings and frontend submissions. Conduct seamless tests to ensure optimal functionality and effortlessly monitor logs for streamlined management. Keep your audience informed and engaged with EventPrime's Twilio Text Notifications integration.
+
+
+
+First you need to configure Twilio for EventPrime.
+
+
+
+Get your Account SID, Auth Token, and Sevice ID from twilio. To get it follow the following steps:
+
+
+
+Step 1: Go to Twilio's website. 
+
+
+
+Step 2: If you already have a Twilio account, log in; otherwise, sign up. 
+
+
+
+
+
+
+
+Step 3: Click on "Get a Trial Number." 
+
+
+
+
+
+
+
+Step 4: A popup will appear showing a number. If you prefer, you can search for a different number, or you can choose this one. 
+
+
+
+
+
+
+
+Step 5: You will see your new phone number. Copy it and click "Done." 
+
+
+
+
+
+
+
+Step 6: Here are your Account SID and Auth Token keys. Copy them and keep it handy.
+
+
+
+
+
+
+
+Start by installing the Twilio SMS Notification extension from the EventPrime website, and then proceed with its configuration.
+
+
+
+Begin with the Twilio Settings under EventPrime settings. You will need to set up the following options:
+
+
+
+
+
+
+
+Admin Notification Number: Enter the phone number to which you want to receive SMS updates/alerts.
+
+
+
+Enable Twilio Text Services: This option allows you to enable this extension.
+
+
+
+Account SID: You should have received this information from the steps mentioned earlier.
+
+
+
+Auth Token: You should have received this information from the steps mentioned earlier.
+
+
+
+Service ID: You should have received this information from the steps mentioned earlier.
+
+
+
+Twilio Number: Enter your Twilio Phone number.
+
+
+
+Show Twilio SMS Error Logs: This option enables error logs on the dashboard.
+
+
+
+Now you need to configure, Twilio Notifications options inside the extension settings:
+
+
+
+
+
+
+
+For Event Bookings
+
+
+
+Notify Admin: This option is used to send a notification to the admin when a new booking is made.
+
+
+
+Notify Users for Event Bookings: This option is used to send a notification when a user completes an event booking on your website. This functionality only works when users have entered their mobile numbers in the user profile field.
+
+
+
+These options are applied when bookings are made through the Events section on your website.
+
+
+
+For Frontend Event Submission - 
+
+
+
+Notify Admin: This option is used to send a notification to the admin when a new booking is submitted through the frontend event submission.
+
+
+
+Notify Users for Event Bookings: This option is used to send a notification to users when they complete an event booking on your website using the frontend event submission. This functionality only works when users have entered their mobile numbers in the user profile field.
+
+
+
+These options are applied when booking done through Frontend Event Submission.
+
+
+
+Now you need to configure, Twilio Testing options inside the extension settings:
+
+
+
+
+
+
+
+Mobile Number: Please enter a phone number for testing. If your Twilio account is successfully connected to this extension, you will receive the test message.
+
+
+
+Message: Please write the test message that you want to send during testing.
+
+
+
+Now you need to configure, Twilio SMS Error Logs options inside the extension settings:
+
+
+
+
+
+
+
+Delete Logs: This option is used to delete the Error Logs.
+
+
+
+Now, you need to turn on this extension from Events inside EventPrime menus, follow steps given below:
+
+
+
+Navigate to the EventPrime menus on your WordPress website and click on Events.
+
+
+
+
+
+
+
+Next, select the specific event for which you want to enable notifications.
+
+
+
+
+
+
+
+You will find a checkbox on the right-hand side to turn on SMS notifications.
+
+
+
+
+
+
+
+That's it! You will now receive notifications and further communication on your phone.
+
+
+
+Conclusion
+
+
+
+In conclusion, the integration of Twilio Text Notifications with EventPrime helps the user engagement and management. This extension streamlines communication, fostering personalized interactions between administrators and users. EventPrime's seamless configuration of customized notifications and text messaging services keeps both parties well-informed about event bookings and frontend submissions. Rigorous testing and efficient log monitoring ensure smooth functionality, simplifying overall management and elevating user engagement. Stay connected and informed with the powerful integration of EventPrime and Twilio Text Notifications, providing an unparalleled experience for all involved.
+How to use Event List Extension for your WordPress Website?
+Presenting the dynamic Event List Extension, a transformative addition to your WordPress event management. This innovative tool effortlessly incorporates three new event listing widgets - the Popular Events, Featured Events, and Related Events lists. Keep your audience engaged with the Popular Events list, featuring events based on their booking popularity and displaying booking percentages for added insight. Easily highlight events in the Featured Events list with a simple click, while the Related Events list intelligently suggests similar events based on type, performer, or location, ensuring a personalized user experience.
+
+
+
+
+
+
+
+
+Elementor Integration Frontend Event Submission Widget
+In this section you will learn about Frontend Event Submission widget of Elementor Integration from EventPrime.
+
+
+
+Using this widget you can add frontend event submission form on any webpage of your website.
+
+
+
+Let's explore options of this widget.
+
+
+
+
+
+
+
+
+
+
+
+Confirmation Message: This option allows you to customize the confirmation message after form submission. This helps you to add customized message after booking is done by attendees.
+
+
+
+Guest Submissions: When enabled, new event submissions can be made without the need to log in. This feature allows users to submit events without the requirement to sign in.
+
+
+
+Default State: When user do event submission, you can decide weather that form will be in Draft state or it will be directly published.
+
+
+
+Restrict by Roles: This feature allows us to restrict access to the form submission for specific roles such as Administrator, Editor, Author, Contributor, and Subscriber.
+
+
+
+Event Featured Image: When enabled, an option to add an event featured image will be available.
+
+
+
+Event Booking: If enabled, the event booking option will be available.
+
+
+
+Event Link: When enabled, an option to add an event link will be available.
+
+
+
+Event Type: If enabled, there will be an option to add an event type.
+
+
+
+Add New Event Type: If enabled, users can add a new event type from the widget.
+
+
+
+Venues: When enabled, an option to add a venue will be available.
+
+
+
+Add New Venue: If enabled, users can add a new venue directly from the widget.
+
+
+
+Event Performer: If enabled, users can add an event performer.
+
+
+
+Add New Performer: When enabled, users can add a new event performer through the widget.
+
+
+
+Event Organizer: If enabled, an option to add the event organizer will be available.
+
+
+
+Event Description Required: If enabled, adding an event description will be mandatory.
+
+
+
+Event Booking Required: If enabled, adding event booking details will be mandatory.
+
+
+
+Event Booking Price Required: If enabled, adding the booking price will be mandatory.
+
+
+
+Event Link Required: If enabled, adding an event link will be mandatory.
+
+
+
+Event Type Required: If enabled, selecting an event type will be mandatory.
+
+
+
+Now, let's see how this event submission form will appear on the frontend.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontend View of Frontend Event Submission Form
